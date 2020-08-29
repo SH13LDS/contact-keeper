@@ -4,7 +4,7 @@
   "description": "Contact management application",
   "main": "server.js",
   "scripts": {
-    "testartst": "node server.js",
+    "start": "node server.js",
     "server": "nodemon server.js"
   },
   "author": "Michael Shields",
